@@ -52,3 +52,13 @@ button:hover {
   border-radius: 12px; /* coins arrondis */
   box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* ombre légère */
 }
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+
+  section {
+    padding: 20px;
+  }
+}
