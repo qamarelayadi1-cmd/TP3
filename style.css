@@ -1,8 +1,9 @@
 body {
     font-family: Arial;
     text-align: center;
-    background: rgb(211, 211, 211);
+    background: lightgray;
 }
+
 
 h1 {
     color: rgb(255, 0, 140);
