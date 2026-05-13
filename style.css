@@ -26,3 +26,29 @@ nav a {
   text-decoration: none;
   color:  purple;
 }
+nav a:hover {
+    color: #ff0077;
+}
+
+
+button {
+    background: #E1306C;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #c8235c;
+}
+.card {
+  background: white; /* fond blanc */
+  padding: 20px; /* espace intérieur */
+  margin: 15px; /* espace extérieur */
+  border-radius: 12px; /* coins arrondis */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* ombre légère */
+}
