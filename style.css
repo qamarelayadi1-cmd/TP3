@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: rgb(211, 211, 211);
+}
+
+h1 {
+    color: rgb(255, 0, 140);
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: rgb(255, 0, 221);
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
